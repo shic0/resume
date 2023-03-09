@@ -209,7 +209,7 @@ div.scroll {
     flex-direction: column;
     margin-top: 16px;
     
-    height: 40vh;
+    height: 58vh;
     width: 100vw; 
     overflow-y: auto;
 }
