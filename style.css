@@ -1,5 +1,6 @@
 * {
     font-family: 'Roboto Condensed', sans-serif; 
+    background-color: black;
 }
 
 
@@ -8,8 +9,7 @@ body {
     margin: 0px;
     margin-top: 8px;
     background-color: rgba(192, 197, 199, 0.016); 
-    margin-left: 17%;
-    margin-right: 17%;
+    
   
 }
 
